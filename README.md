@@ -1,5 +1,5 @@
 # AtualizadorDeApp
-O AtualizadorDeApp é um aplicativo de terminal feito em C# que foi desenvolvido para automatizar a rotina de atualização dos apps da empresa. Ele atualiza o "app.json" de todos os aplicativos que estiverem na pasta, sem alterar as informações únicas de cada app.
+O AtualizadorDeApp é um aplicativo de terminal feito em C# que foi desenvolvido para automatizar a rotina de atualização dos apps da empresa em que trabalhava. Ele atualiza o "app.json" de todos os aplicativos que estiverem na pasta, sem alterar as informações únicas de cada app.
 
 Esse é um projeto pessoal que foi criado para aprimorar minhas habilidades em C# e automatizar uma tarefa repetitiva que precisava ser feita manualmente no trabalho.
 
